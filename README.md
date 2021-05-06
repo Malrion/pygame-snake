@@ -11,7 +11,7 @@ ____
 snake.py
 - main file with the game
 
-snake(hard).py 
+snake-hard.py 
 - a modernized game with an increase in speed with an increase in points
 
 auto-snake.py 
